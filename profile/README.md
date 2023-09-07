@@ -7,7 +7,7 @@ Quack your way into seamless security !
 
 
 # Context
-DuckPass is a group project carried out as part of the PDG course during the summer semester of 2023 at HEIG-VD.
+DuckPass is a group project carried out as part of the 3 weeks long PDG course during the summer university of 2023 at HEIG-VD, Yverdon.
 
 # Authors
 
@@ -15,10 +15,6 @@ DuckPass is a group project carried out as part of the PDG course during the sum
 - DUCOMMUN Hugo: Scrum Master, frontend developer
 - MARTINS Alexis, Backend developer
 - SAEZ Pablo, Backend developer
-
-# Trailer
-
-Soon ..
 
 # Project description
 
@@ -30,10 +26,6 @@ The DuckPass project comes to life as an innovative password manager. Its aim? T
 
 # How to launch the project locally
 
-## Database
-
-Soon ..
-
 ## Frontend
 
 The necessary information can be found in the documentation of the
@@ -44,10 +36,10 @@ The necessary information can be found in the documentation of the
 The necessary information can be found in the documentation of the
 [repository](https://github.com/Duck-Pass/backend)
 
+## With docker
+
+See the `self-host` repository. 
+
 # Contribute to the project
 
-Soon ..
-
-# Deploy a feature
-
-Soon ..
+Please refer to the `CONTRIBUTING.md` files in the `backend` and `web-client` repositories.
