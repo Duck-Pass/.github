@@ -24,6 +24,26 @@ Current reality shows that 95% of hacking incidents stem from human errors and i
 
 The DuckPass project comes to life as an innovative password manager. Its aim? To aggregate and secure these intricate passwords, all while offering a seamless and reassuring experience. In addition to introducing a single master password requirement for easy access to the platform without compromising security, DuckPass sets itself apart by providing a groundbreaking feature. Users can now determine if their credentials have been compromised in previous data breaches, further enhancing their digital security. Armed with features like generating highly secure passwords, DuckPass is a robust solution fortified by end-to-end encryption, ensuring your data's security for complete peace of mind.
 
+# Features
+
+- Zero-knowledge of your vault
+- End-to-end encryption
+- Sign in
+- Sign up
+- Login
+- Account deletion
+- Indicator of the strength of your passwords
+- User profile page to view and edit information
+- 2FA login
+- 2FA manager for other apps
+- Search/filter passwords
+- Add username/password securely in the vault
+- Remove logins from the vault
+- Purge vault
+- Password generator
+- Integration of breached password search
+- Integration of breaches of your master email
+
 # How to launch the project locally
 
 ## Frontend
